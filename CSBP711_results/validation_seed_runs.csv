@@ -1,0 +1,25 @@
+Model,Features,Seed,Phishing F1,Errors,Missed phishing,False phishing alerts,Convergence warning
+Logistic regression,All 50,42,0.9997533232835412,9,9,0,False
+Random forest,All 50,42,0.9998629724026419,5,5,0,False
+Gradient boosting,All 50,42,0.9999451934670612,2,2,0,False
+Neural network,All 50,42,0.9998629724026419,5,5,0,False
+Logistic regression,Without USI,42,0.9991229512689799,32,20,12,False
+Random forest,Without USI,42,0.9997259523157029,10,7,3,False
+Gradient boosting,Without USI,42,0.9996162701458173,14,12,2,False
+Neural network,Without USI,42,0.9997259072470124,10,10,0,False
+Logistic regression,All 50,123,0.9997533232835412,9,9,0,False
+Random forest,All 50,123,0.9998903809262811,4,4,0,False
+Gradient boosting,All 50,123,0.9999451934670612,2,2,0,False
+Neural network,All 50,123,0.9999177879477131,3,3,0,False
+Logistic regression,Without USI,123,0.9991229512689799,32,20,12,False
+Random forest,Without USI,123,0.9996162911801787,14,11,3,False
+Gradient boosting,Without USI,123,0.9996162701458173,14,12,2,False
+Neural network,Without USI,123,0.9997533368048894,9,8,1,False
+Logistic regression,All 50,2026,0.9997533232835412,9,9,0,False
+Random forest,All 50,2026,0.9999451934670612,2,2,0,False
+Gradient boosting,All 50,2026,0.9999451934670612,2,2,0,False
+Neural network,All 50,2026,0.9998629724026419,5,5,0,False
+Logistic regression,Without USI,2026,0.9991229512689799,32,20,12,False
+Random forest,Without USI,2026,0.9996162911801787,14,11,3,False
+Gradient boosting,Without USI,2026,0.9996162701458173,14,12,2,False
+Neural network,Without USI,2026,0.9996985392858122,11,8,3,False

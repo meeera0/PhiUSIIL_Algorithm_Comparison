@@ -1,0 +1,5 @@
+Model,Features,Seed,Evaluation,Accuracy,Phishing precision,Phishing recall,Phishing F1,False-positive rate,MCC,Errors,Missed phishing,False phishing alerts,Train seconds,Pipeline KiB
+Random forest,All 50,42,Test,1.0,1.0,1.0,1.0,0.0,1.0,0,0,0,19.643427317000032,1827.4921875
+Gradient boosting,All 50,42,Test,1.0,1.0,1.0,1.0,0.0,1.0,0,0,0,58.479451729000175,87.8046875
+Neural network,All 50,42,Test,0.9999283821528325,1.0,0.9997992371009837,0.9998996084730448,0.0,0.9998439568579437,3,3,0,26.52353693200007,172.2509765625
+Logistic regression,All 50,42,Test,0.9998806369213875,1.0,0.9996653951683062,0.9998326695893712,0.0,0.9997399338686999,5,5,0,2.5419000950000736,3.50390625

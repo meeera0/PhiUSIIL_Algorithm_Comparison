@@ -1,0 +1,13 @@
+index,value
+Rows,235795
+Columns,56
+Missing cells,0
+Blank text cells,0
+Infinite numeric cells,0
+Columns with <=1 nonmissing value,0
+Exact duplicate extra rows,0
+Duplicate extra rows excluding FILENAME,0
+Repeated URL extra rows,425
+Unique URLs with conflicting labels,0
+Unique supplied domains,220086
+Repeated supplied-domain extra rows,15709

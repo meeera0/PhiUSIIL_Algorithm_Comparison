@@ -1,0 +1,9 @@
+Model,Features,Mean_F1,SD_F1,Mean_errors,Min_errors,Max_errors,Any_convergence_warning
+Logistic regression,All 50,0.999753323283541,0.0,9.0,9,9,False
+Random forest,All 50,0.9998995155986613,4.186475293348969e-05,3.6666666666666665,2,5,False
+Gradient boosting,All 50,0.9999451934670612,0.0,2.0,2,2,False
+Neural network,All 50,0.9998812442509989,3.164776970267127e-05,4.333333333333333,3,5,False
+Logistic regression,Without USI,0.9991229512689799,0.0,32.0,32,32,False
+Random forest,Without USI,0.9996528448920201,6.331288611456092e-05,12.666666666666666,10,14,False
+Gradient boosting,Without USI,0.9996162701458173,0.0,14.0,14,14,False
+Neural network,Without USI,0.9997259277792381,2.7398765308550962e-05,10.0,9,11,False

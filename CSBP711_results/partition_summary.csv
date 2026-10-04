@@ -1,0 +1,4 @@
+Partition,Records,Records (%),Domain groups,Phishing,Legitimate,Phishing (%)
+Train,148453,63.07,105305,67330,81123,45.35
+Validation,45028,19.13,35102,18247,26781,40.52
+Test,41889,17.8,35102,14943,26946,35.67
