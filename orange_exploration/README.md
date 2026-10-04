@@ -23,10 +23,6 @@ https://archive.ics.uci.edu/dataset/967/phiusiil+phishing+url+dataset
 
 Dataset licence: CC BY 4.0.
 
-## Saved model files
-
-The large `.pkcls` files are not included here. Inspection showed that they contain stored data alongside the fitted models, so their total file sizes are not directly comparable with the serialized Colab pipeline sizes.
-
 ## Contribution
 
 Orange workflow development and preliminary experiments: Shamma Alalawi.
